@@ -1,0 +1,3147 @@
+@media( max-width:1900px) {
+  .lkLineTop .logo {
+    min-width: 217px
+  }
+  .lkLineTop .logo img {
+    width: 50px
+  }
+  .lkLineTop .lineInfoTop .supportBl {
+    margin-left: 20px
+  }
+  .lkLineTop .lineInfoTop .socialBl {
+    margin-left: 20px
+  }
+  .lkInfoUser {
+    width: calc(100% - 867px)
+  }
+  .lkInfoUser ul li+li {
+    margin-left: 32px
+  }
+  .depositLine {
+    padding: 16px 0 17px 10px
+  }
+  .depositLine .list {
+    width: calc(50% + 145px);
+    margin-left: 10px
+  }
+  .depositLine .list .listTopInfo .col {
+    width: calc((100% / 3) - 6px);
+    padding: 5px 5px 6px 53px
+  }
+  .depositLine .list .listTopInfo .col [class*="icon-"] {
+    font-size: 25px;
+    left: 15px;
+    margin-top: -13px
+  }
+  .depositLine .list .listTopInfo .col .tit {
+    font-size: 11px
+  }
+  .depositLine .list .listBotInfo .col {
+    width: calc((100% / 3) - 6px)
+  }
+  .depositLine .progressBl {
+    margin-left: 13px;
+    width: 188px
+  }
+  .circlePr {
+    right: 10px
+  }
+  .filterBl {
+    padding: 30px
+  }
+  .filterBl .tit {
+    margin-right: 8px
+  }
+  .filterBl .dateTimeBl .col input {
+    width: 145px
+  }
+  .filterBl .selectric {
+    width: 141px
+  }
+  .filterBl .btn {
+    width: 160px;
+    font-size: 17px;
+    padding: 15px 0
+  }
+  .tableHistory .thead {
+    padding: 0 30px 0 97px
+  }
+  .tableHistory .thead .col:nth-child(1) {
+    width: 200px
+  }
+  .tableHistory .thead .col:nth-child(2) {
+    width: 155px
+  }
+  .tableHistory .thead .col:nth-child(3) {
+    width: 175px
+  }
+  .tableHistory .thead .col:nth-child(4) {
+    width: 227px
+  }
+  .tableHistory .thead .col:nth-child(5) {
+    width: 140px
+  }
+  .tableHistory .thead .col:nth-child(6) {
+    width: 122px
+  }
+  .tableHistory .tbody .line .col:nth-child(1) {
+    width: 228px
+  }
+  .tableHistory .tbody .line .col:nth-child(2) {
+    width: 125px
+  }
+  .tableHistory .tbody .line .col:nth-child(6) {
+    padding-left: 22px
+  }
+  .makeBl .selectPlan {
+    padding: 14px 0 17px 138px
+  }
+  .makeBl .selectPlan .title {
+    width: 125px
+  }
+  .makeBl .selectPlan .numer {
+    left: 20px
+  }
+  .listPlans {
+    width: calc(100% - 140px)
+  }
+  .enterBl .amount .numer {
+    left: 20px
+  }
+  .enterBl .payment .selectric-wrapper {
+    width: 184px
+  }
+  .enterBl .payment .listChek {
+    margin-left: 10px
+  }
+  .enterBl .payment .listChek .chekBl label {
+    font-size: 15px
+  }
+  .totalBl {
+    padding: 25px
+  }
+  .totalBl .col {
+    width: calc((100% / 3) - 25px)
+  }
+  .totalBl .col .tit {
+    font-size: 22px
+  }
+  .totalBl .col .val {
+    font-size: 25px
+  }
+  .listPayment {
+    flex-wrap: wrap;
+    justify-content: flex-start
+  }
+  .listPayment .item {
+    margin-bottom: 11px
+  }
+  .accountBl .filterBl .dateTimeBl .col input {
+    width: 185px
+  }
+}
+
+@media( max-width:1559px) {
+  /* .lkLineTop .logo img {
+    width: 130px
+  } */
+  .bannersBl .tabs .listTabs li a {
+    font-size: 15px
+  }
+  .lkLineTop {
+    padding: 24px 15px
+  }
+  .lkLineTop .logo {
+    min-width: 155px
+  }
+  .lkInfoUser {
+    width: calc(100% - 795px)
+  }
+  .lkInfoUser ul li+li {
+    margin-left: 15px
+  }
+  .lkLineDep .list {
+    padding: 40px 20px
+  }
+  .lkMenuFot ul li a {
+    font-size: 15px
+  }
+  .depositLine .list {
+    width: calc(50% + 130px)
+  }
+  .depositLine .list .listTopInfo .col .tit {
+    font-size: 10px
+  }
+  .depositLine .list .listBotInfo .col {
+    padding: 11px 19px 11px 22px
+  }
+  .depositLine .list .listBotInfo .col .tit {
+    font-size: 11px
+  }
+  .depositLine .list .listBotInfo .col .val {
+    font-size: 11px
+  }
+  .depositLine .progressBl {
+    margin-left: 10px;
+    width: 133px
+  }
+  .depositLine .progressBl .txtProg {
+    font-size: 11px
+  }
+  .filterBl .tit {
+    font-size: 14px;
+    margin-right: 5px;
+    top: 0
+  }
+  .filterBl .dateTimeBl .col input {
+    width: 125px
+  }
+  .filterBl .selectric {
+    width: 125px
+  }
+  .tableHistory .thead {
+    padding: 0
+  }
+  .tableHistory .thead .col {
+    font-size: 13px
+  }
+  .tableHistory .thead .col:nth-child(1) {
+    width: 234px;
+    text-align: center
+  }
+  .tableHistory .thead .col:nth-child(2) {
+    width: 133px
+  }
+  .tableHistory .thead .col:nth-child(3) {
+    width: 122px
+  }
+  .tableHistory .thead .col:nth-child(4) {
+    width: 186px
+  }
+  .tableHistory .thead .col:nth-child(6) {
+    width: 84px
+  }
+  .tableHistory .tbody .line {
+    padding: 16px 20px;
+    align-items: center
+  }
+  .tableHistory .tbody .line .col:nth-child(1) {
+    width: 210px
+  }
+  .tableHistory .tbody .line .col:nth-child(2) {
+    padding-left: 0;
+    width: 100px
+  }
+  .tableHistory .tbody .line .col:nth-child(3) {
+    width: 150px
+  }
+  .tableHistory .tbody .line .col:nth-child(4) {
+    width: 150px
+  }
+  .tableHistory .tbody .line .col:nth-child(5) {
+    width: 150px
+  }
+  .tableHistory .tbody .line .col:nth-child(6) {
+    width: 200px;
+    padding-left: 0
+  }
+  .tableHistory .tbody .line .col .name {
+    font-size: 14px
+  }
+  .tableHistory .tbody .line .col .pic {
+    margin: 0 auto;
+    top: 0
+  }
+  .makeBl .selectPlan {
+    padding: 14px 0 17px 115px
+  }
+  .makeBl .selectPlan .title {
+    width: 100px;
+    font-size: 16px
+  }
+  .makeBl .selectPlan .numer {
+    margin-top: -38px
+  }
+  .makeBl .numer {
+    width: 75px;
+    height: 75px;
+    background-size: contain
+  }
+  .listPlans {
+    width: calc(100% - 110px)
+  }
+  .listPlans .item .pr {
+    font-size: 20px
+  }
+  .enterBl .amount {
+    padding: 26px 19px 30px 110px
+  }
+  .enterBl .amount .numer {
+    margin-top: -38px
+  }
+  .enterBl .amount .title {
+    font-size: 16px
+  }
+  .enterBl .payment {
+    padding: 26px 5px 23px 120px
+  }
+  .enterBl .payment .numer {
+    margin-top: -38px
+  }
+  .enterBl .payment .listChek .chekBl label {
+    font-size: 14px
+  }
+  .totalBl .col .tit {
+    font-size: 20px
+  }
+  .totalBl .btn {
+    width: 300px
+  }
+  .totalBl .col .val {
+    font-size: 20px
+  }
+  .listPayment {
+    width: calc(100% - 70px)
+  }
+  .makeBl.with .selectPlan {
+    padding: 40px 25px 40px 120px
+  }
+  .accountBl .filterBl {
+    padding: 45px 25px 45px 37px
+  }
+  .accountBl .filterBl .dateTimeBl .col input {
+    width: 166px
+  }
+}
+
+@media( max-width:1439px) {
+  /* .lkLineTop .logo img {
+    width: 115px
+  } */
+  .container {
+    width: 1200px;
+    padding: 0 15px
+  }
+  .headPage:before {
+    margin-left: -35px;
+    left: -50%
+  }
+  .lineTop {
+    padding: 25px 0
+  }
+  .lineTop .logo {
+    min-width: 235px
+  }
+  .logo .txt {
+    font-size: 30px
+  }
+  .menu {
+    width: calc(100% - 455px)
+  }
+  .menu ul li a::before {
+    left: -15px;
+    top: -11px;
+    width: calc(100% + 30px);
+    height: calc(100% + 22px)
+  }
+  .menu ul {
+    padding: 0 10px
+  }
+  .lineInfoTop .tit {
+    font-size: 11px
+  }
+  .lineInfoTop .supportBl .link {
+    font-size: 14px
+  }
+  .grettingsMain .cap {
+    font-size: 65px
+  }
+  .lineCurrents {
+    margin-top: 141px;
+    padding-left: 136px
+  }
+  .invesPlanBl .textBlock {
+    max-width: 37%
+  }
+  .listPlan {
+    -webkit-transform: scale(.95);
+    -moz-transform: scale(.95);
+    -o-transform: scale(.95);
+    transform: scale(.95);
+    right: -20px;
+    top: -47px
+  }
+  .aboutMain .lineAbout {
+    flex-wrap: wrap
+  }
+  .aboutMain .lineAbout .left {
+    width: 100%
+  }
+  .aboutMain .lineAbout .right {
+    width: 100%;
+    padding-top: 35px;
+    left: 0
+  }
+  .aboutMain .lineAbout .right .btn {
+    margin-top: 50px
+  }
+  .videoBl {
+    width: 397px
+  }
+  .aboutMain .adress {
+    margin-top: 0;
+    margin-left: 41px
+  }
+  .register {
+    margin: 30px auto 0
+  }
+  .affilateMain .in {
+    padding-left: 115px
+  }
+  .affilateMain .bitAffilate {
+    left: -231px;
+    top: -70px
+  }
+  .lastOper {
+    margin-top: 24px
+  }
+  .lastOper .list .item {
+    width: calc((100% / 3) - 40px)
+  }
+  .infoAboutUs {
+    justify-content: flex-start
+  }
+  .infoAboutUs .info {
+    width: 428px
+  }
+  .infoAboutUs .docBl {
+    margin-top: 30px;
+    width: 406px
+  }
+  .bannersBl .tabs .listTabs li {
+    width: calc((100% / 5) - 7px)
+  }
+  .copyLinkBl input {
+    width: calc(100% - 250px)
+  }
+  .copyLinkBl .btn {
+    width: 230px
+  }
+  .investPage .formaPlan {
+    right: 199px;
+    top: 675px
+  }
+  .investPage .listPlan {
+    top: 124px;
+    left: -30px
+  }
+  .lkLineTop .logo {
+    min-width: 125px
+  }
+  .lkLineTop .lineInfoTop .timeBl {
+    width: 140px
+  }
+  .lkLineTop .lineInfoTop .supportBl {
+    margin-left: 5px
+  }
+  .lkLineTop .lineInfoTop .socialBl {
+    margin-left: 10px
+  }
+  .lkInfoUser {
+    width: 570px
+  }
+  .lkInfoUser ul li {
+    padding-left: 41px
+  }
+  .lkInfoUser ul li .tit {
+    font-size: 11px
+  }
+  .lkInfoUser ul li [class*="icon-"] {
+    font-size: 29px
+  }
+  .lkInfoUser ul li .val {
+    font-size: 14px
+  }
+  .lkInfoUser ul li b.val {
+    font-size: 15px
+  }
+  .lkLineDep .list {
+    padding: 24px 10px
+  }
+  .lkRightContent {
+    padding: 0 30px
+  }
+  .accountBl .linksBl .item .link {
+    font-size: 15px
+  }
+  .lkFooter .copyTxt {
+    width: 250px
+  }
+  .lkFooter .copyTxt p {
+    font-size: 12px
+  }
+  .lkFooter .soc {
+    width: 240px
+  }
+  .lkMenuFot {
+    padding: 10px 20px;
+    width: calc(100% - 395px)
+  }
+  .lkMenuFot ul li a {
+    font-size: 14px
+  }
+  .adretingBl .refLink {
+    padding: 30px
+  }
+  .adretingBl .refLink .copyLinkBl .tit {
+    width: 150px;
+    font-size: 14px
+  }
+  .adretingBl .refLink .copyLinkBl input {
+    width: calc(100% - 425px);
+    left: 0
+  }
+  .adretingBl .refLink .copyLinkBl .btn {
+    width: 225px
+  }
+  .adretingBl .bannersBl {
+    padding: 15px 30px 50px
+  }
+  .depositLine {
+    flex-wrap: wrap;
+    padding: 16px 0 17px 15px
+  }
+  .depositLine .prBl {
+    position: relative;
+    top: 23px
+  }
+  .depositLine .list {
+    width: calc(100% - 260px)
+  }
+  .depositLine .progressBl {
+    width: calc(100% - 265px);
+    margin: 0 auto;
+    margin-top: 15px;
+    position: relative;
+    left: -10px
+  }
+  .circlePr {
+    top: 93px;
+    right: 17px
+  }
+  .filterBl .dateTimeBl .col::after {
+    top: auto;
+    bottom: 28px
+  }
+  .filterBl .dateTimeBl .col+.col {
+    margin-left: 15px
+  }
+  .filterBl .tit {
+    display: block;
+    margin-right: 0;
+    margin-bottom: 10px
+  }
+  .filterBl .dateTimeBl .col input {
+    width: 150px
+  }
+  .filterBl .selectric {
+    width: 150px
+  }
+  .filterBl .btn {
+    top: 14px
+  }
+  .tableHistory .thead .col:nth-child(1) {
+    text-align: left;
+    padding-left: 22px;
+    width: 20%
+  }
+  .tableHistory .thead .col:nth-child(2) {
+    width: 17%;
+    text-align: center
+  }
+  .tableHistory .thead .col:nth-child(3) {
+    width: 10%
+  }
+  .tableHistory .thead .col:nth-child(4) {
+    width: 18%
+  }
+  .tableHistory .thead .col:nth-child(5) {
+    width: 13%
+  }
+  .tableHistory .thead .col:nth-child(6) {
+    width: 16%
+  }
+  .tableHistory .tbody .line .col:nth-child(2) {
+    width: 120px
+  }
+  .settingsBl .tabs .listTabs {
+    padding: 0 30px
+  }
+  .settingsBl .tabs .formaMessage {
+    padding: 30px
+  }
+  .settingsBl .chekitList {
+    padding: 30px
+  }
+  .makeBl .selectPlan {
+    flex-wrap: wrap;
+    padding: 50px 20px 20px
+  }
+  .makeBl .selectPlan .title {
+    margin-left: 94px
+  }
+  .makeBl .numer {
+    top: 25px;
+    margin: 0!important
+  }
+  .listPlans {
+    width: 100%;
+    margin-top: 41px
+  }
+  .enterBl .payment .listChek {
+    margin-left: 0
+  }
+  .totalBl .btn {
+    width: 250px
+  }
+  .listPayment {
+    width: 100%;
+    margin-top: 50px
+  }
+  .makeBl.with .selectPlan {
+    padding: 25px 26px 20px
+  }
+  .makeBl.with .amount {
+    padding: 32px 20px 32px 117px
+  }
+  .accountBl .filterBl .dateTimeBl .col input {
+    width: 180px
+  }
+  .genetalStat .left .line .tit {
+    font-size: 13px
+  }
+  .genetalStat .left .line .val {
+    font-size: 17px
+  }
+  .genetalStat .right .line {
+    padding: 16px 0 16px 20px
+  }
+  .tableInfoRef .line .tit {
+    font-size: 14px
+  }
+  .tableInfoRef .line .val {
+    font-size: 14px;
+    margin-left: 0
+  }
+  .tableReferals .infoLine {
+    padding: 8px 15px 12px
+  }
+}
+@media( max-width:1315px){
+  .lkInfoUser{
+  width:510px;
+  }
+  .lkLineTop .lineInfoTop .timeBl{
+  width:130px;
+  }
+  .logo .txt{
+  font-size:24px !important;
+  }
+}
+@media( max-width:1199px) {
+  .circleBig{
+    display: none;
+  }
+  .blickBlTwo, .blickBl {
+    display: none;
+  }
+  .circleMain {
+    display: none;
+  }
+  .mobileTitleTable {
+    display: block;
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin-bottom: 15px
+  }
+  /* .lkLineTop .logo img {
+    width: 130px
+  } */
+  .container {
+    width: 992px;
+    padding: 0 5px
+  }
+  .headMain {
+    min-height: 740px
+  }
+  .headMain:before {
+    background-image: url(../img/bgmainhead1024.png);
+    width: 1586px;
+    height: 1232px;
+    margin-left: -681px
+  }
+  .headPage:before {
+    
+    width: 1774px;
+    height: 880px;
+    margin-left: -168px;
+    left: -50%;
+    top: -49px
+  }
+  .headPage .lineTop {
+    padding: 19px 0 22px
+  }
+  .lineTop {
+    flex-wrap: wrap
+  }
+  .menu {
+    width: 100%;
+    margin-top: 47px
+  }
+  .menu ul {
+    justify-content: flex-start
+  }
+  .menu ul li+li {
+    margin-left: 42px
+  }
+  .menu ul li a:before {
+    left: -21px;
+    top: -10px;
+    width: calc(100% + 45px);
+    height: calc(100% + 21px)
+  }
+  .loginLinks {
+    position: absolute;
+    right: 12px;
+    top: 37px
+  }
+  .headPage .loginLinks {
+    right: 160px
+  }
+  .lineInfoTop {
+    margin-top: 25px
+  }
+  .grettingsMain {
+    margin-top: 12px
+  }
+  .grettingsMain .cap {
+    font-size: 80px
+  }
+  .lineCurrents {
+    margin-top: 0;
+    padding-left: 0;
+    position: absolute;
+    right: auto;
+    bottom: 14px;
+    left: 50%;
+    margin-left: -162px
+  }
+  .lineCurrents ul li+li {
+    margin-left: 25px
+  }
+  .lineCurrents ul li .iconBl {
+    width: 65px;
+    height: 65px
+  }
+  .lineCurrents ul li .val+* {
+    margin-top: 0
+  }
+  .invesPlanBl .textBlock {
+    padding-left: 28px;
+    max-width: 37%
+  }
+  .listPlan {
+    -webkit-transform: scale(.95);
+    -moz-transform: scale(.95);
+    -o-transform: scale(.95);
+    transform: scale(.79);
+    right: -113px;
+    top: -50px
+  }
+  .formaPlan {
+    right: 135px;
+    top: 486px
+  }
+  .invesPlanBl .pic_bit {
+    left: -15px;
+    top: 575px;
+    width: 231px;
+    height: 180px;
+    background-size: contain
+  }
+  .invesPlanBl .pic_bit::before {
+    width: 170px;
+    height: 170px;
+    left: -15px;
+    top: 33px;
+    background-size: contain;
+  }
+  .aboutMain {
+    top: -20px
+  }
+  .textBlock .capTitle+* {
+    margin-top: 17px
+  }
+  .aboutMain .lineAbout .left {
+    position: relative
+  }
+  .aboutMain .lineAbout .right {
+    padding-top: 42px
+  }
+  .aboutMain .lineAbout .right .btn {
+    margin-top: 28px
+  }
+  .videoBl {
+    width: 358px
+  }
+  .aboutMain .adress {
+    margin-left: 0;
+    margin-top: 90px
+  }
+  .register {
+    margin-top: 50px;
+    margin-left: 93px
+  }
+  .affilateMain {
+    margin-top: 74px
+  }
+  .affilateMain .in {
+    padding-left: 0
+  }
+  .affilateMain .bitAffilate {
+    left: -331px;
+    top: -108px
+  }
+  .infoAffilate {
+    margin-top: 9px
+  }
+  .infoAffilate .left .item {
+    padding: 23px 150px 23px 69px;
+    -webkit-border-top-right-radius: 0;
+    -moz-border-top-right-radius: 0;
+    -ms-border-top-right-radius: 0;
+    border-top-right-radius: 0;
+    -webkit-border-bottom-right-radius: 0;
+    -moz-border-bottom-right-radius: 0;
+    -ms-border-bottom-right-radius: 0;
+    border-bottom-right-radius: 0
+  }
+  .infoAffilate .right .item {
+    padding: 23px 67px 23px 150px;
+    -webkit-border-top-left-radius: 0;
+    -moz-border-top-left-radius: 0;
+    -ms-border-top-left-radius: 0;
+    border-top-left-radius: 0;
+    -webkit-border-bottom-left-radius: 0;
+    -moz-border-bottom-left-radius: 0;
+    -ms-border-bottom-left-radius: 0;
+    border-bottom-left-radius: 0
+  }
+  .logoAffilate {
+    width: 260px;
+    height: 270px;
+    top: 50%;
+    margin-left: -130px;
+    margin-top: -135px;
+    border: solid 1px #454365
+  }
+  .whyBl {
+    margin-top: 105px
+  }
+  .whyBl .in .list .item {
+    max-width: 260px
+  }
+  .pl {
+    margin-top: 26px
+  }
+  .lastOper {
+    margin-top: 36px
+  }
+  .lastOper .list .item {
+    width: calc((100% / 3) - 30px)
+  }
+  .lastOper .list .item:first-child .listLine .line {
+    padding: 15px 25px 15px 50px
+  }
+  .lastOper .list .item .listLine .line {
+    padding: 15px 15px 15px 50px
+  }
+  .lastOper .list .item .listLine .line .iconPl {
+    right: 50%;
+    margin-right: -30px
+  }
+  .lastOper .bigFon {
+    background-image: url(../img/lasoperfon1024.png);
+    width: 2125px;
+    height: 801px;
+    top: -198px;
+    margin-left: -264px
+  }
+  .companyNews {
+    margin-top: 145px;
+    padding-bottom: 53px
+  }
+  .companyNews::before {
+    margin-right: -520px;
+    background-image: url(../img/foncompanynews1024.png);
+    width: 1693px;
+    height: 776px
+  }
+  .companyNews .in {
+    padding-left: 50px
+  }
+  .companyNews .list .item:nth-child(3) {
+    display: none
+  }
+  .paymentBl {
+    padding: 102px 0 0
+  }
+  .paymentBl .list {
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0 15px
+  }
+  .paymentBl .list .item {
+    margin-bottom: 53px
+  }
+  footer {
+    padding: 143px 0 40px
+  }
+  footer .in {
+    position: relative
+  }
+  footer .left .logo {
+    margin: 0 auto;
+    display: table;
+    display: table;
+    margin: 0 auto
+  }
+  footer .left .copyTxt {
+    margin-top: 25px;
+    text-align: center
+  }
+  footer .right {
+    width: calc(100% - 305px)
+  }
+  footer .right .listFot .col:nth-child(4) {
+    position: absolute;
+    left: 31px;
+    bottom: 5px
+  }
+  footer .right .listFot .col:nth-child(4) .tit {
+    display: none
+  }
+  .menuFut {
+    width: calc(100% + 92px);
+    position: relative;
+    left: -80px
+  }
+  .menuFut ul {
+    padding: 16px 25px 16px 20px
+  }
+  footer::before {
+    
+    width: 2543px;
+    height: 907px;
+    bottom: -234px;
+    margin-left: -711px
+  }
+  .grettings .cap {
+    font-size: 70px
+  }
+  .aboutUsBl {
+    padding: 210px 0 0
+  }
+  .aboutUsBl .bitPicture {
+    top: -22px;
+    right: 138px;
+    width: 349px;
+    height: 275px;
+    background-size: contain
+  }
+  .aboutUsBl .bitPicture.big::before {
+    top: 96px;
+    width: 210px;
+    height: 210px;
+    left: -26px;
+  }
+  .aboutUsBl .bitPicture:before {
+    top: 53px;
+    width: 250px;
+    height: 250px;
+    left: -18px;
+  }
+  .aboutUsBl .bitPicture.big {
+    background-size: contain;
+    width: 271px;
+    height: 334px
+  }
+  .bitPicture::after {}
+  .aboutUsBl .circleBlue {
+    top: 547px;
+    margin-left: -271px
+  }
+  .aboutUsBl .wrap {
+    flex-wrap: wrap
+  }
+  .aboutUsBl .wrap .left {
+    width: 100%
+  }
+  .aboutUsBl .wrap .right {
+    width: 100%;
+    padding: 20px 0 0
+  }
+  .aboutUsBl .wrap .right p:first-child+* {
+    margin-top: 20px
+  }
+  .aboutUsBl .wrap .right p:last-child {
+    margin-top: 20px
+  }
+  .aboutUsBl .wrap .right p+p {
+    margin-top: 20px
+  }
+  .infoAboutUs+* {
+    margin-top: 39px
+  }
+  .infoAboutUs .info {
+    width: 287px
+  }
+  .infoAboutUs .docBl {
+    margin: 0
+  }
+  .infoAboutUs .register {
+    right: 0;
+    margin-left: 366px
+  }
+  .bannersBl {
+    padding: 100px 0
+  }
+  .lkPage .bannersBl .tabs .listTabs {
+    justify-content: center
+  }
+  .lkPage .bannersBl .tabs .listTabs li {
+    width: calc((100% / 4));
+    margin-bottom: 12px!important
+  }
+  .tabs .listTabs li a {
+    font-size: 15px
+  }
+  .lkPage .pictureBanners {
+    background-size: contain;
+    height: 230px
+  }
+  .contactsBl .wrapIn {
+    flex-wrap: wrap
+  }
+  .contactsBl .wrapIn .left {
+    width: 100%;
+    padding-right: 0
+  }
+  .contactsBl .wrapIn .right {
+    width: 100%;
+    padding: 0 20px
+  }
+  .contactsBl .register {
+    margin: 50px 0
+  }
+  .formaMessage label {
+    font-size: 14px
+  }
+  .contactsBl .bitPicture {
+    display: none
+  }
+  .investPage .invesPlanBl .textBlock p+.capTitle {
+    margin-top: 33px
+  }
+  .investPage .formaPlan {
+    right: 130px;
+    top: 675px
+  }
+  .investPage .listPlan {
+    top: 145px;
+    left: -117px
+  }
+  .rateBl {
+    padding: 100px 0 0
+  }
+  .rateBl .list {
+    justify-content: space-around
+  }
+  .rateBl .item {
+    width: calc((100%/ 4) - 10px);
+    height: 350px
+  }
+  .rulesBl .bitPicture {
+    display: none
+  }
+  .lkLineTop {
+    flex-wrap: wrap
+  }
+  .lkLineTop .lineInfoTop {
+    position: absolute;
+    right: 86px;
+    top: 0
+  }
+  .lkLineTop .lineInfoTop .supportBl {
+    margin-left: 52px
+  }
+  .lkLineTop .lineInfoTop .socialBl {
+    margin-left: 55px
+  }
+  .lkInfoUser {
+    width: 100%;
+    margin-top: 12px
+  }
+  .lkInfoUser ul {
+    justify-content: space-between
+  }
+  .lkInfoUser ul li .tit {
+    font-size: 12px
+  }
+  .lkInfoUser ul li .val {
+    font-size: 15px
+  }
+  .lkInfoUser ul li b.val {
+    font-size: 20px
+  }
+  .lkLineDep::before {
+    background-image: none;
+    width: 100%;
+    background-color: #2b2949;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    border-radius: 50px;
+    top: 0;
+    height: 100%;
+    left: -15px
+  }
+  .lkLineDep .list {
+    flex-wrap: wrap;
+    padding: 8px 11px 2px;
+    justify-content: flex-start
+  }
+  .lkLineDep .item {
+    width: calc(100% / 4);
+    margin-bottom: 9px
+  }
+  .lkContent {
+    padding: 36px 0 0
+  }
+  .lkContent .lkMenu {
+    width: 246px
+  }
+  .lkContent .lkMenu ul li a {
+    padding: 17px 0 17px 68px
+  }
+  .lkContent .lkMenu ul li a [class*="icon-"] {
+    left: 13px;
+    margin-top: -17px
+  }
+  .lkRightContent {
+    padding: 0 5px 0 19px
+  }
+  .lkRightContent .capTitle {
+    font-size: 30px
+  }
+  .lkRightContent .capTitle+* {
+    margin-top: 35px
+  }
+  .accountBl .linksBl {
+    flex-wrap: wrap
+  }
+  .accountBl .linksBl .item {
+    width: 100%
+  }
+  .accountBl .linksBl .item+.item {
+    margin-top: 24px
+  }
+  .accountBl .statBl {
+    margin-top: 30px
+  }
+  .accountBl .statBl .left, .accountBl .statBl .right {
+    width: calc(50% - 3px)
+  }
+  .accountBl .statBl .list .item {
+    padding: 16px 30px 19px 65px
+  }
+  .lkFooter {
+    margin-top: 57px;
+    padding: 36px 62px 91px 14px
+  }
+  .lkFooter .copyTxt {
+    width: 269px
+  }
+  .lkFooter .copyTxt p {
+    font-size: 14px
+  }
+  .lkFooter .soc {
+    display: none
+  }
+  .lkMenuFot {
+    padding: 19px 20px;
+    width: calc(100% - 195px)
+  }
+  .lkFooter::before {
+    background-image: url(../img/bglinefotlk1024.png);
+    width: 1173px;
+    height: 204px
+  }
+  .adretingBl .refLink .copyLinkBl {
+    flex-wrap: wrap
+  }
+  .adretingBl .refLink .copyLinkBl .tit {
+    width: 100%;
+    text-align: center;
+    display: block;
+    font-size: 15px
+  }
+  .adretingBl .refLink .copyLinkBl input {
+    width: 100%;
+    margin-top: 15px
+  }
+  .adretingBl .refLink .copyLinkBl .btn {
+    margin: 0 auto;
+    margin-top: 15px
+  }
+  .depositLine {
+    padding: 30px 15px
+  }
+  .depositLine .prBl {
+    top: 0;
+    margin: 0 auto
+  }
+  .depositLine .list {
+    width: 100%;
+    margin: 20px 0 0
+  }
+  .depositLine .progressBl {
+    width: 100%;
+    left: 0
+  }
+  .circlePr {
+    position: relative;
+    left: 0;
+    top: 0;
+    margin: 20px auto 0
+  }
+  .filterBl .wrapIn {
+    flex-wrap: wrap
+  }
+  .filterBl .btn {
+    margin: 0 auto
+  }
+  .tableHistory .thead {
+    display: none
+  }
+  .tableHistory .tbody .line {
+    flex-wrap: wrap;
+    align-items: inherit
+  }
+  .tableHistory .tbody .line .col {
+    width: 50%!important;
+    text-align: center!important;
+    margin-bottom: 20px;
+    padding: 10px 0
+  }
+  .tableHistory .tbody .line .col .name {
+    font-weight: 400
+  }
+  .tableHistory .tbody .line .col .val {
+    font-size: 17px
+  }
+  .settingsBl {
+    padding: 50px 0 30px
+  }
+  .settingsBl .tabs .listTabs li {
+    width: calc((100% / 3) - 10px)
+  }
+  .settingsBl .tabs .listTabs li a {
+    font-size: 14px
+  }
+  .settingsBl .titListChek {
+    font-size: 14px
+  }
+  .settingsBl .chekitList .left, .settingsBl .chekitList .right {
+    width: 50%
+  }
+  .listPlans {
+    flex-wrap: wrap;
+    justify-content: flex-start
+  }
+  .listPlans .item {
+    margin: 5px
+  }
+  .makeBl.with .totalBl .profit {
+    width: 50%
+  }
+  .accountBl .filterBl .dateTimeBl .col input {
+    width: 278px
+  }
+  .genetalStat {
+    flex-wrap: wrap;
+    margin-top: 42px
+  }
+  .genetalStat .left {
+    width: 100%
+  }
+  .genetalStat .right {
+    width: 100%;
+    margin-top: 30px
+  }
+  .tableReferals .infoLine .col .tit {
+    margin-left: 10px
+  }
+  .tableReferals .infoLine .col .val {
+    margin-left: 0;
+    display: block
+  }
+  .tableReferals .infoLine .col .link {
+    display: table
+  }
+}
+
+@media( max-width:991px) {
+  .container {
+    width: 768px
+  }
+  .headPage:before {
+    margin-left: -290px
+  }
+  .menu ul {
+    justify-content: space-between
+  }
+  .menu ul li+li {
+    margin-left: 0
+  }
+  .menu ul li a {
+    font-size: 14px
+  }
+  .headPage .loginLinks {
+    right: 15px
+  }
+  .grettingsMain .cap {
+    font-size: 60px
+  }
+  .grettingsMain .cap+* {
+    margin-top: 20px
+  }
+  .grettingsMain .desr {
+    font-size: 18px
+  }
+  .grettingsMain .desr+* {
+    margin-top: 24px
+  }
+  .invesPlanBl {
+    padding: 85px 0 0
+  }
+  .invesPlanBl .textBlock {
+    max-width: 100%;
+    padding-left: 0
+  }
+  .listPlan {
+    -webkit-transform: scale(.63);
+    -moz-transform: scale(.63);
+    -o-transform: scale(.63);
+    transform: scale(.63);
+    right: -225px;
+    top: 46px
+  }
+  .formaPlan {
+    right: 65px;
+    top: 556px
+  }
+  .videoBl {
+    width: 330px
+  }
+  .docBl {
+    margin-left: 18px
+  }
+  .register {
+    margin-top: 50px;
+    margin-left: 44px
+  }
+  .infoAffilate .left .item {
+    padding: 23px 25px 23px 69px
+  }
+  .infoAffilate .right .item {
+    padding: 23px 67px 23px 25px
+  }
+  .logoAffilate {
+    display: none
+  }
+  .whyBl .in .list .item p {
+    font-size: 16px;
+    margin-top: 16px
+  }
+  .pl .list {
+    width: 100%;
+    padding: 0 15px
+  }
+  .pl .list .item {
+    width: calc(100% / 6);
+    background-size: contain;
+    height: 41px
+  }
+  .lastOper .in {
+    position: relative
+  }
+  .lastOper .list {
+    flex-wrap: wrap;
+    margin-top: 45px
+  }
+  .lastOper .list .item {
+    width: calc((100% / 2) - 30px);
+    margin-bottom: 25px
+  }
+  .lastOper .list .item .listLine {
+    margin-top: 25px
+  }
+  .lastOper .list .item .listLine .line .iconPl {
+    margin-right: -26px
+  }
+  .lastOper .bigFon {
+    display: none
+  }
+  .lastOper .links {
+    margin-top: 15px
+  }
+  .lastOper .pic_bit {
+    display: block;
+    background-image: url(../img/pic_bit1.png);
+    width: 287px;
+    height: 229px;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    right: 30px;
+    bottom: 143px;
+    z-index: -1
+  }
+  .lastOper .pic_bit::before {
+    content: "";
+    position: absolute;
+    left: -13px;
+    top: 41px;
+    background-image: url("../img/pic_bit2.png");
+    background-repeat: no-repeat;
+    width: 208px;
+    height: 209px;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-duration: 5s;
+    animation-name: circleMainRotate;
+    z-index: -2;
+  }
+  .companyNews {
+    margin-top: 65px;
+    padding-bottom: 47px
+  }
+  .companyNews::before {
+    top: -31px
+  }
+  .companyNews .in {
+    padding-left: 0
+  }
+  .paymentBl {
+    padding: 40px 0 0
+  }
+  footer {
+    padding: 50px 0 40px
+  }
+  footer .left .copyTxt {
+    text-align: left;
+    padding-left: 34px
+  }
+  footer .right .listFot .col {
+    display: none
+  }
+  footer .right .listFot .col:nth-child(4) {
+    display: block;
+    right: 30px;
+    bottom: 55px;
+    left: auto
+  }
+  .menuFut {
+    display: none
+  }
+  footer::before {
+    bottom: -400px;
+    margin-left: -800px
+  }
+  .faqBl .left {
+    width: calc(50% - 15px)
+  }
+  .faqBl .right {
+    width: calc(50% - 15px)
+  }
+  .listQuests .tit {
+    font-size: 22px
+  }
+  .questLine .quest {
+    font-size: 16px
+  }
+  .lineContactLink {
+    flex-wrap: wrap
+  }
+  .lineContactLink .tit {
+    display: block;
+    width: 100%
+  }
+  .lineContactLink .btn {
+    top: 0;
+    margin-top: 20px
+  }
+  .faqBl {
+    padding: 60px 0 0
+  }
+  .infoAboutUs .register {
+    margin-left: 279px
+  }
+  .bannersBl {
+    padding: 100px 0 0
+  }
+  .bannersBl .bitPicture {
+    display: none
+  }
+  .bannersBl .textBlock {
+    max-width: 100%
+  }
+  .bannersBl .tabs .listTabs li {
+    width: calc((100% / 5) - 10px)
+  }
+  .lkPage .bannersBl .tabs .listTabs li {
+    width: calc((100% / 3));
+    margin-bottom: 12px!important
+  }
+  .lkPage .bannersBl .tabs .listTabs li a {
+    font-size: 14px
+  }
+  .tabs .listTabs li a {
+    font-size: 14px
+  }
+  .copyLinkBl {
+    flex-wrap: wrap
+  }
+  .copyLinkBl input {
+    width: 100%
+  }
+  .copyLinkBl .btn {
+    margin: 0 auto;
+    margin-top: 15px
+  }
+  .formaMessage .in {
+    flex-wrap: wrap
+  }
+  .investPage .formaPlan {
+    right: 60px;
+    top: 720px
+  }
+  .investPage .listPlan {
+    top: 175px;
+    left: -230px
+  }
+  .rateBl .item {
+    width: calc((100%/ 3) - 10px)
+  }
+  .rulesBl .textBlock {
+    max-width: 100%
+  }
+  .loginBl .formaMessage {
+    padding: 54px
+  }
+  .lkLineTop .lineInfoTop {
+    right: 17px
+  }
+  .lkLineTop .lineInfoTop .socialBl {
+    margin-left: 41px
+  }
+  .accountBl .statBl {
+    flex-wrap: wrap
+  }
+  .accountBl .statBl .left, .accountBl .statBl .right {
+    width: 100%
+  }
+  .accountBl .statBl .right {
+    margin-top: 25px
+  }
+  .lkFooter {
+    flex-wrap: wrap;
+    padding: 35px 15px;
+    background-color: #2b2949
+  }
+  .lkFooter .copyTxt {
+    display: block;
+    text-align: center;
+    margin: 0 auto
+  }
+  .lkMenuFot {
+    width: 100%;
+    margin-top: 20px
+  }
+  .lkFooter::before {
+    display: none
+  }
+  .depositLine .list .listTopInfo {
+    flex-wrap: wrap
+  }
+  .depositLine .list .listTopInfo .col {
+    width: 100%
+  }
+  .depositLine .list .listTopInfo .col+.col {
+    margin-top: 10px
+  }
+  .depositLine .list .listTopInfo .col .tit {
+    font-size: 13px
+  }
+  .depositLine .list .listBotInfo {
+    flex-wrap: wrap;
+    margin-top: 10px
+  }
+  .depositLine .list .listBotInfo .col {
+    width: 100%
+  }
+  .depositLine .list .listBotInfo .col+.col {
+    margin-top: 10px
+  }
+  .depositLine .list .listBotInfo .col .tit {
+    font-size: 13px
+  }
+  .depositLine .list .listBotInfo .col .val {
+    font-size: 13px
+  }
+  .depositLine .progressBl {
+    margin-top: 10px
+  }
+  .depositLine .progressBl .txtProg {
+    font-size: 13px
+  }
+  .depositLine .progressBl .prog {
+    margin-top: 10px
+  }
+  .filterBl .dateTimeBl {
+    width: 100%;
+    margin-bottom: 15px
+  }
+  .filterBl .dateTimeBl .col {
+    width: 50%
+  }
+  .filterBl .dateTimeBl .col input {
+    width: 100%
+  }
+  .filterBl .transactionBl {
+    width: calc(50% - 7px)
+  }
+  .filterBl .payBl {
+    width: calc(50% - 7px)
+  }
+  .filterBl .selectric-wrapper {
+    width: 100%
+  }
+  .filterBl .selectric {
+    width: 100%
+  }
+  .settingsBl .tabs .listTabs {
+    justify-content: center;
+    padding: 0
+  }
+  .settingsBl .tabs .listTabs li {
+    width: calc((100% / 2) - 10px);
+    margin-bottom: 10px!important
+  }
+  .settingsBl .tabs .formaMessage {
+    padding: 15px
+  }
+  .settingsBl .lineBtn {
+    margin: 0
+  }
+  .settingsBl .btn {
+    margin: 0 auto;
+    margin-top: 15px
+  }
+  .settingsBl .tabs .formaMessage .lineInputs {
+    width: 100%!important
+  }
+  .settingsBl .titListChek {
+    min-height: 36px
+  }
+  .settingsBl .chekitList {
+    padding: 15px
+  }
+  .makeBl .selectPlan+* {
+    margin-top: 20px
+  }
+  .listPlans .item {
+    margin: 3px
+  }
+  .enterBl {
+    width: 100%;
+    flex-wrap: wrap
+  }
+  .enterBl .amount {
+    width: 100%
+  }
+  .enterBl .amount .inputLine {
+    width: 100%;
+    max-width: 100%
+  }
+  .enterBl .payment {
+    width: 100%;
+    margin-top: 20px;
+    padding: 26px 19px 23px 109px
+  }
+  .enterBl .payment .selectric-wrapper {
+    width: 100%
+  }
+  .totalBl {
+    width: 100%;
+    flex-wrap: wrap
+  }
+  .totalBl .col {
+    width: 100%
+  }
+  .totalBl .col+.col {
+    margin-top: 10px
+  }
+  .totalBl .btn {
+    width: 100%;
+    margin-top: 10px
+  }
+  .makeBl.with .amount .inputLine {
+    margin-left: 0;
+    width: 100%;
+    margin-top: 10px
+  }
+  .makeBl.with .totalBl .profit {
+    width: 100%
+  }
+  .accountBl .filterBl .dateTimeBl .col input {
+    width: 100%
+  }
+  .tableReferals .infoLine {
+    flex-wrap: wrap;
+    padding: 15px
+  }
+  .tableReferals .infoLine .col {
+    width: 100%;
+    text-align: center
+  }
+  .tableReferals .infoLine .col+.col {
+    margin-top: 15px
+  }
+  .tableReferals .infoLine .col .val {
+    margin-top: 10px
+  }
+  .tableReferals .infoLine .col .link {
+    margin: 0 auto;
+    margin-top: 10px
+  }
+}
+
+@media( max-width:767px) {
+  .menuBtn {
+    display: block
+  }
+  .lkPage .menuBtn {
+    top: 31px;
+    right: 13px;
+    z-index: 10
+  }
+  .container {
+    width: 100%;
+    padding: 0 10px
+  }
+  .headMain {
+    min-height: 550px
+  }
+  .headMain:before {
+    background-image: url(../img/bgmainhead640.png);
+    width: 784px;
+    height: 543px;
+    margin-left: -384px;
+    top: 56px
+  }
+  .headPage {
+    min-height: 260px
+  }
+  .headPage:before {
+    background-image: url(../img/bgheadpage640.png);
+    width: 783px;
+    height: 448px;
+    margin-left: 257px;
+    top: 8px
+  }
+  .headPage .lineTop {
+    padding: 0
+  }
+  .lineTop {
+    padding: 0
+  }
+  .lineTop .logo {
+    position: absolute;
+    left: 9px;
+    top: 86px
+  }
+  .headMain .logo img {
+    width: auto
+  }
+  .headMain+.content footer .logo img {
+    width: auto
+  }
+  .logo img {
+    width: 50px
+  }
+  .menu {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 180px;
+    background-color: #19152e;
+    padding: 20px 0;
+    z-index: 5;
+    border-top: solid 1px #4b496a;
+    border-bottom: solid 1px #4b496a
+  }
+  .menu ul {
+    flex-wrap: wrap
+  }
+  .menu ul li {
+    width: 100%
+  }
+  .menu ul li+li {
+    margin-top: 16px
+  }
+  .menu ul li a {
+    display: block;
+    background-color: #2b2949;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    border-radius: 25px;
+    font-size: 15px;
+    padding: 17px 27px
+  }
+  .menu ul li a:before {
+    display: none
+  }
+  .loginLinks {
+    right: 7px;
+    top: 12px
+  }
+  .loginLinks ul li a {
+    background-color: transparent
+  }
+  .lineInfoTop {
+    background-color: #221d3f;
+    margin: 0;
+    padding: 13px 0
+  }
+  .lineInfoTop .timeBl {
+    padding-left: 47px
+  }
+  .lineInfoTop .supportBl {
+    display: none
+  }
+  .lineInfoTop .socialBl {
+    margin-left: 21px
+  }
+  .grettingsMain {
+    margin: 0;
+    padding: 230px 0 0
+  }
+  .grettingsMain .cap {
+    font-size: 40px
+  }
+  .grettingsMain .desr {
+    display: none
+  }
+  .grettingsMain .desr+* {
+    margin-top: 34px
+  }
+  .lineCurrents {
+    display: none
+  }
+  .invesPlanBl {
+    padding: 4px 0 0
+  }
+  .invesPlanBl .in {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center
+  }
+  .textBlock p {
+    font-size: 15px;
+    line-height: 25px
+  }
+  .capTitle {
+    font-size: 30px
+  }
+  .listPlan {
+    position: relative;
+    right: auto;
+    top: auto;
+    width: 50%;
+    background: transparent;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+    pointer-events: none;
+    height: inherit;
+    margin-top: 25px
+  }
+  .listPlan .item {
+    -webkit-transform: rotate(0deg)!important;
+    -moz-transform: rotate(0deg)!important;
+    -o-transform: rotate(0deg)!important;
+    transform: rotate(0deg)!important;
+    position: relative;
+    top: auto!important;
+    left: auto!important;
+    right: auto!important;
+    bottom: auto!important;
+    background-color: #2b2949;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    border-radius: 50px;
+    width: calc(100% - 11px)!important;
+    height: inherit!important;
+    padding: 8px 5px 9px 88px
+  }
+  .listPlan{    
+    pointer-events: auto;
+  }
+  .listPlan .item+.item {
+    margin-top: 6px
+  }
+  .listPlan .item:hover .pr .prTxt{
+    line-height: 63px;
+  }
+  .listPlan .item input:checked + label + .pr .prTxt {
+    line-height: 63px;
+  }
+  .listPlan .item .pr .prTxt {
+    width: 100%;
+    height: 100%;
+    font-size: 15px;
+    left: 0;
+    top: 0;
+    border: 0;
+    line-height: 63px;
+  }
+  .listPlan .item .pr {
+    -webkit-transform: rotate(0deg)!important;
+    -moz-transform: rotate(0deg)!important;
+    -o-transform: rotate(0deg)!important;
+    transform: rotate(0deg)!important;
+    width: 68px;
+    height: 68px;
+    font-size: 15px;
+    margin-top: -31px;
+    top: 50%!important;
+    right: auto!important;
+    left: 4px!important
+  }
+  .listPlan .item .pr .vip {
+    display: none
+  }
+  .listPlan .item ul {
+    -webkit-transform: rotate(0deg)!important;
+    -moz-transform: rotate(0deg)!important;
+    -o-transform: rotate(0deg)!important;
+    transform: rotate(0deg)!important;
+    position: relative;
+    top: auto!important;
+    right: auto!important;
+    left: auto!important
+  }
+  .listPlan .item input:checked + label + .pr + ul +.desr,
+  .listPlan .item:hover .desr{
+    color: #fff;
+  }
+  .listPlan .item input:checked + label + .pr + ul li span,
+  .listPlan .item:hover ul li span{
+    color: #767498;
+    background-color: #2b2949;
+  }
+  .listPlan .item:hover ul li::after {
+    color: #767498;
+  }
+  .listPlan .item .link {
+    -webkit-transform: rotate(0deg)!important;
+    -moz-transform: rotate(0deg)!important;
+    -o-transform: rotate(0deg)!important;
+    transform: rotate(0deg)!important;
+    display: none
+  }
+  .listPlan .item .desr {
+    -webkit-transform: rotate(0deg)!important;
+    -moz-transform: rotate(0deg)!important;
+    -o-transform: rotate(0deg)!important;
+    transform: rotate(0deg)!important;
+    position: relative;
+    top: auto!important;
+    right: auto!important;
+    left: auto!important;
+    text-align: left
+  }
+  .listPlan .item .fonBl {
+    -webkit-transform: rotate(0deg)!important;
+    -moz-transform: rotate(0deg)!important;
+    -o-transform: rotate(0deg)!important;
+    transform: rotate(0deg)!important;
+    display: none
+  }
+  .listPlan .item input:checked + label + .pr .prTxt {
+    line-height: 62px;
+  }
+  .formaPlan {
+    position: relative;
+    right: auto;
+    top: auto;
+    width: 300px;
+    left: 13px
+  }
+  .invesPlanBl .pic_bit {
+    left: auto;
+    top: -190px;
+    right: 41px
+  }
+  .invesPlanBl .listPlan .logoPlan {
+    display: none
+  }
+  .aboutMain {
+    top: 0;
+    margin-top: 50px
+  }
+  .aboutMain .textBlock {
+    width: 100%
+  }
+  .textBlock .capTitle+* {
+    margin-top: 0
+  }
+  .aboutMain .lineAbout {
+    margin-top: 37px
+  }
+  .aboutMain .lineAbout .right {
+    padding-top: 30px
+  }
+  .videoBl {
+    width: 301px;
+    height: 198px
+  }
+  .docBl {
+    margin-left: 12px;
+    height: inherit
+  }
+  .docBl ul li {
+    width: 144px;
+    height: 198px
+  }
+  .docBl ul li+li {
+    margin-left: 18px
+  }
+  .aboutMain:before {
+    background-image: url(../img/fonaboutcompany640.png);
+    width: 864px;
+    height: 508px;
+    margin-left: -100px;
+    top: 484px
+  }
+  .aboutMain .adress {
+    margin-top: 57px
+  }
+  .register {
+    width: 300px;
+    margin: 33px 0 0 24px;
+    height: 123px;
+    right: -3px
+  }
+  .register .in {
+    left: 6px;
+    top: 6px;
+    width: calc(100% - 12px);
+    height: calc(100% - 12px);
+    padding: 22px 5px 7px 118px
+  }
+  .register .in .pic {
+    width: 60px;
+    height: 60px;
+    background-size: contain;
+    left: 41px;
+    top: 21px
+  }
+  .register .in .tit {
+    font-size: 11px;
+    letter-spacing: 1.2px
+  }
+  .register .in .num {
+    font-size: 20px
+  }
+  .register .in .link {
+    font-size: 11px;
+    letter-spacing: .8px;
+    font-weight: 700
+  }
+  .affilateMain {
+    margin-top: 31px
+  }
+  .affilateMain .top {
+    flex-wrap: wrap
+  }
+  .affilateMain .top .pr {
+    font-size: 70px;
+    width: 108px
+  }
+  .affilateMain .top .textBlock {
+    width: 100%;
+    margin-top: -10px
+  }
+  .affilateMain .top .textBlock .capTitle {
+    position: absolute;
+    left: 112px;
+    top: -67px;
+    line-height: 30px
+  }
+  .affilateMain .top .textBlock p {
+    width: 100%
+  }
+  .infoAffilate {
+    margin-top: 22px
+  }
+  .infoAffilate .left {
+    width: calc(50% - 15px)
+  }
+  .infoAffilate .left .item {
+    padding: 23px 17px 23px 58px;
+    width: 100%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    border-radius: 50px
+  }
+  .infoAffilate .left .item .iconBl {
+    left: 15px;
+    width: 30px;
+    height: 30px;
+    margin-top: -15px;
+    background-size: contain
+  }
+  .infoAffilate .right {
+    width: calc(50% - 15px)
+  }
+  .infoAffilate .right .item {
+    width: 100%;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    border-radius: 50px;
+    padding: 23px 17px 23px 66px
+  }
+  .infoAffilate .right .item .iconBl {
+    left: 15px;
+    width: 30px;
+    height: 30px;
+    margin-top: -15px;
+    background-size: contain;
+    right: auto
+  }
+  .infoAffilate .item+.item {
+    margin-top: 10px
+  }
+  .infoAffilate .item .tit {
+    font-size: 13px
+  }
+  .infoAffilate .item .val {
+    font-size: 13px
+  }
+  .whyBl {
+    margin-top: 32px
+  }
+  .whyBl .in .list {
+    flex-wrap: wrap;
+    margin-top: 41px
+  }
+  .whyBl .in .list .item {
+    width: 100%;
+    max-width: inherit;
+    padding-left: 138px
+  }
+  .whyBl .in .list .item+.item {
+    margin-top: 60px
+  }
+  .whyBl .in .list .item .iconBl {
+    width: 62px;
+    height: 62px;
+    background-size: 48%;
+    left: 49px;
+    top: -12px;
+    z-index: 2
+  }
+  .whyBl .in .list .item .pic {
+    width: 110px;
+    height: 110px;
+    background-size: contain;
+    position: absolute;
+    left: -8px;
+    top: -3px
+  }
+  .whyBl .in .list .item .name {
+    font-size: 17px;
+    margin-top: 0
+  }
+  .whyBl .in .list .item p {
+    font-size: 15px;
+    margin-top: 1px;
+    line-height: 25px
+  }
+  .pl {
+    margin-top: 34px
+  }
+  .pl .list {
+    border: 0;
+    background: transparent;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    padding: 0
+  }
+  .pl .list .item {
+    height: 30px;
+    width: calc((100% / 6) - 15px)
+  }
+  .lastOper {
+    margin-top: 52px
+  }
+  .lastOper .capTitle {
+    display: none
+  }
+  .lastOper .list {
+    margin-top: 0
+  }
+  .lastOper .pic_bit {
+    right: 5px;
+    bottom: 66px
+  }
+  .lastOper .list .item {
+    width: calc((100% / 2) - 17px)
+  }
+  .lastOper .links {
+    display: none
+  }
+  .companyNews {
+    margin-top: 33px;
+    padding-bottom: 47px
+  }
+  .companyNews::before {
+    top: -8px;
+    margin-right: -315px;
+    background-image: url(../img/foncompanynews640.png);
+    width: 1063px;
+    height: 503px
+  }
+  .companyNews .capTitle+* {
+    margin-top: 35px
+  }
+  .companyNews .list .item .pic {
+    width: 100px;
+    height: 100px
+  }
+  .companyNews .list .item .txt {
+    width: calc(100% - 110px);
+    padding-left: 6px
+  }
+  .companyNews .list .item .txt .name {
+    line-height: 21px
+  }
+  .companyNews .btn {
+    margin-top: 64px
+  }
+  .whyBl+.paymentBl {
+    padding: 73px 0 41px
+  }
+  .paymentBl {
+    padding: 0
+  }
+  .paymentBl .list .item {
+    width: calc(100% / 4);
+    height: 35px;
+    background-size: contain;
+    margin-bottom: 21px
+  }
+  footer {
+    padding: 78px 0 40px
+  }
+  footer .left .copyTxt {
+    margin-top: 9px
+  }
+  footer .right .listFot .col:nth-child(4) {
+    bottom: 26px
+  }
+  footer::before {
+    background-image: url(../img/bgfooter640.png);
+    width: 1148px;
+    height: 363px;
+    bottom: 2px;
+    margin-left: -370px
+  }
+  .grettings .cap {
+    font-size: 40px
+  }
+  .grettings {
+    margin-top: 102px
+  }
+  .faqBl .left {
+    width: 100%
+  }
+  .faqBl .right {
+    width: 100%
+  }
+  .faqBl .textBlock p {
+    max-width: 100%
+  }
+  .listQuests+.listQuests {
+    margin-top: 40px
+  }
+  .lineContactLink {
+    margin-top: 44px
+  }
+  .faqBl+* {
+    margin-top: 40px
+  }
+  .aboutUsBl {
+    padding: 152px 0 0
+  }
+  .aboutUsBl .bitPicture::before {
+    top: 80px;
+    width: 170px;
+    height: 170px;
+    left: -18px;
+  }
+  .aboutUsBl .bitPicture {
+    top: -83px;
+    right: 63px;
+    width: 230px;
+    height: 275px
+  }
+  .aboutUsBl .bitPicture.big {
+    width: 206px;
+    height: 334px;
+    top: 737px
+  }
+  .aboutUsBl .wrap .capTitle+* {
+    margin-top: 10px
+  }
+  .aboutUsBl .wrap p {
+    font-size: 15px
+  }
+  .infoAboutUs {
+    margin-top: 40px
+  }
+  .infoAboutUs+* {
+    margin-top: 30px
+  }
+  .infoAboutUs .info {
+    width: 245px
+  }
+  .infoAboutUs .docBl {
+    width: calc(100% - 255px);
+    left: 12px;
+    top: 0
+  }
+  .infoAboutUs .docBl ul li {
+    width: 100%;
+    height: 232px
+  }
+  .infoAboutUs .register {
+    margin-left: 305px
+  }
+  .bannersBl {
+    padding: 100px 0 50px
+  }
+  .bannersBl .tabs .listTabs {
+    justify-content: center
+  }
+  .bannersBl .tabs .listTabs li {
+    width: calc((100% / 4) - 5px);
+    margin-bottom: 15px!important
+  }
+  .pictureBanners {
+    background-size: contain;
+    /* height: 200px */
+  }
+  .investPage .invesPlanBl .textBlock {
+    max-width: 100%
+  }
+  .investPage .formaPlan {
+    right: auto;
+    top: auto;
+    width: 300px
+  }
+  .investPage .listPlan {
+    top: auto;
+    left: auto
+  }
+  .textInvestDesr {
+    margin-top: 45px
+  }
+  .textInvestDesr .textBlock p:nth-child(1) {
+    padding: 0
+  }
+  .rateBl {
+    padding: 100px 0 50px
+  }
+  .rateBl .item {
+    margin-bottom: 10px
+  }
+  .loginBl .formaMessage {
+    padding: 30px
+  }
+  .loginBl .formaMessage .imageCodeBl {
+    margin-top: 0
+  }
+  .loginBl .formaMessage .imageCodeBl .imageCode {
+    width: calc(50% - 14px)
+  }
+  .loginBl .formaMessage .imageCodeBl input {
+    width: calc(50% - 14px)
+  }
+  .lkLineTop {
+    padding: 14px 10px
+  }
+  .lkLineTop .logo {
+    width: 100%;
+    margin-bottom: 12px
+  }
+  .lkLineTop .lineInfoTop {
+    position: relative;
+    top: auto;
+    right: auto;
+    width: 150px;
+    flex-wrap: wrap;
+    padding-left: 14px
+  }
+  .lkLineTop .lineInfoTop .timeBl {
+    width: 100%
+  }
+  .lkLineTop .lineInfoTop .socialBl {
+    width: 100%;
+    margin: 0;
+    margin-top: 8px
+  }
+  .lkInfoUser {
+    width: calc(100% - 155px);
+    margin: 0
+  }
+  .lkInfoUser ul {
+    flex-wrap: wrap
+  }
+  .lkInfoUser ul li {
+    width: 50%;
+    padding-left: 49px;
+    margin-bottom: 10px
+  }
+  .lkInfoUser ul li+li {
+    margin: 0
+  }
+  .lkLineDep::before {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    border-radius: 0;
+    left: 0
+  }
+  .lkLineDep .list {
+    padding: 14px 11px
+  }
+  .lkLineDep .item {
+    width: 50%;
+    margin-bottom: -2px
+  }
+  .lkContent {
+    padding: 24px 0 0
+  }
+  .lkContent .lkMenu {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 85px;
+    background-color: #19152e;
+    width: 100%;
+    left: 0;
+    padding: 18px 10px 28px;
+    z-index: 5;
+    border-top: solid 1px #4b496a;
+    border-bottom: solid 1px #4b496a
+  }
+  .lkContent .lkMenu ul {
+    left: 0
+  }
+  .lkContent .lkMenu ul li a {
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    border-radius: 50px
+  }
+  .lkRightContent {
+    width: 100%;
+    padding: 0 9px
+  }
+  .accountBl .statBl .left, .accountBl .statBl .right {
+    width: calc(50% - 16px);
+    margin: 0
+  }
+  .accountBl .statBl .list .item {
+    padding: 18px 13px 18px 46px
+  }
+  .accountBl .statBl .list .item .name {
+    font-size: 13px
+  }
+  .accountBl .statBl .list .item .val {
+    font-size: 13px
+  }
+  .accountBl .statBl .list .item .iconBl {
+    left: 10px
+  }
+  .accountBl .statBl .left .list .item .val {
+    font-size: 13px
+  }
+  .lkFooter {
+    margin-top: 40px;
+    padding: 29px 15px
+  }
+  .lkMenuFot {
+    /* display: none */
+  }
+  .lkMenuFot ul {
+    display: block;
+    text-align: center;
+  }
+  .lkMenuFot ul li {
+    display: inline-block;
+    padding: 0 10px;
+  }
+  .accountBl .filterBl .dateTimeBl .col input {
+    width: 100%
+  }
+}
+
+@media( max-width:639px) {
+  .menuBtn {
+    top: 155px;
+    right: 12px
+  }
+  .headMain:before {
+    top: 109px
+  }
+  .headPage:before {
+    margin-left: 135px;
+    top: 60px
+  }
+  .lineTop .logo {
+    top: 140px
+  }
+  .loginLinks {
+    right: auto;
+    top: 63px;
+    margin: 0;
+    left: 50%;
+    margin-left: -100px
+  }
+  .lineInfoTop {
+    padding: 13px 0 65px;
+    display: flex;
+    justify-content: space-between
+  }
+  .listPlan {
+    width: 100%;
+    margin: 15px auto 0;
+    max-width: 320px;
+    pointer-events: auto;
+  }
+  .listPlan .item {
+    width: 100%!important
+  }
+  .formaPlan {
+    margin: 15px auto 0;
+    left: 0;
+    width: 320px
+  }
+  .invesPlanBl .pic_bit {
+    top: -163px;
+    right: -4px
+  }
+  .aboutMain .lineAbout {
+    margin-top: 15px
+  }
+  .videoBl {
+    width: 306px;
+    margin: 0 auto
+  }
+  .docBl {
+    margin: 0 auto;
+    margin-top: 15px
+  }
+  .infoAboutUs .docBl ul li {
+    width: 144px;
+    height: 198px
+  }
+  .aboutMain .adress {
+    display: table;
+    margin: 15px auto 0
+  }
+  .register {
+    margin: 15px auto 0
+  }
+  .infoAffilate {
+    flex-wrap: wrap
+  }
+  .infoAffilate .left {
+    width: 100%
+  }
+  .infoAffilate .right {
+    width: 100%;
+    margin-top: 10px
+  }
+  .lastOper .pic_bit {
+    display: none
+  }
+  .lastOper .list .item {
+    width: 100%
+  }
+  .companyNews::before {
+    bottom: -156px;
+    top: auto
+  }
+  .companyNews .list {
+    flex-wrap: wrap
+  }
+  .companyNews .list .item {
+    width: 100%;
+    max-width: inherit
+  }
+  .companyNews .list .item+.item {
+    margin-top: 30px
+  }
+  .investPage+.paymentBl {
+    margin-top: 30px
+  }
+  .paymentBl .list .item {
+    width: calc(100% / 2)
+  }
+  .questLine .answer {
+    padding: 30px
+  }
+  .faqBl .bitPicture {
+    display: none
+  }
+  .aboutUsBl .bitPicture.big {
+    display: none
+  }
+  .infoAboutUs .docBl {
+    width: 100%;
+    left: 0;
+    top: 0;
+    margin-top: 52px
+  }
+  .infoAboutUs .register {
+    margin: 45px 0 0
+  }
+  .bannersBl .tabs .listTabs li {
+    width: calc((100% / 3) - 5px)
+  }
+  .copyLinkBl {
+    flex-wrap: wrap
+  }
+  .copyLinkBl input {
+    width: 100%
+  }
+  .copyLinkBl .btn {
+    margin: 15px auto 0
+  }
+  .contactsBl .wrapIn .right {
+    padding: 0
+  }
+  .contactsBl .info {
+    margin-top: 40px
+  }
+  .contactsBl .social {
+    right: 20px;
+    bottom: 80px
+  }
+  .investPage .whyBl {
+    margin-top: 50px
+  }
+  .textInvestDesr .textBlock p {
+    margin-bottom: 30px
+  }
+  .rateBl .item {
+    width: calc((100%/ 2) - 10px)
+  }
+  .rulesBl .lastUpdate .tit {
+    font-size: 14px
+  }
+  .rulesBl .lastUpdate .date {
+    font-size: 14px
+  }
+  .lkLineTop .lineInfoTop {
+    width: 100%;
+    padding: 0;
+    margin-top: 15px
+  }
+  .lkLineTop .lineInfoTop .timeBl {
+    width: 50%
+  }
+  .lkLineTop .lineInfoTop .socialBl {
+    width: 50%;
+    margin: 0
+  }
+  .lkInfoUser {
+    width: 100%
+  }
+  .accountBl .linksBl .item .tit {
+    font-size: 20px
+  }
+  .accountBl .statBl .left, .accountBl .statBl .right {
+    width: 100%
+  }
+  .accountBl .statBl .right {
+    margin-top: 30px
+  }
+  .adretingBl .refLink {
+    padding: 30px 15px
+  }
+  .adretingBl .bannersBl {
+    padding: 15px 15px 30px
+  }
+}
+
+@media( max-width:479px) {
+  .headMain:before {
+    background-image: url(../img/bgmainhead320.png);
+    width: 574px;
+    height: 595px;
+    margin-left: -279px;
+    top: 74px
+  }
+  .headPage:before {
+    background-image: url(../img/bgheadpage320.png);
+    width: 472px;
+    height: 420px;
+    left: auto;
+    right: 50%;
+    margin-right: -250px;
+    top: 100px
+  }
+  footer .left .logo img {
+    width: 106px
+  }
+  footer .left .logo .txt {
+    font-size: 14px
+  }
+  .menu ul li a.active, .menu ul li a:hover {
+    background-color: #fedc00;
+    color: #19152e
+  }
+  .grettingsMain .btn::before {
+    left: -9px
+  }
+  .grettingsMain .btn {
+    margin: 29px auto 0
+  }
+  .invesPlanBl {
+    padding: 54px 0 0
+  }
+  .invesPlanBl .pic_bit {
+    top: -157px;
+    right: -10px;
+    width: 200px;
+    height: 150px
+  }
+  .aboutMain {
+    margin-top: 41px
+  }
+  .videoBl {
+    height: 216px
+  }
+  .docBl {
+    margin-top: 31px;
+    width: 300px
+  }
+  .aboutMain .adress {
+    margin: 30px auto 0;
+    padding-left: 47px
+  }
+  .aboutMain .adress .iconBl {
+    left: -15px
+  }
+  .register {
+    margin: 37px auto 0
+  }
+  .affilateMain {
+    margin-top: 66px
+  }
+  .infoAffilate {
+    margin-top: 37px
+  }
+  .whyBl {
+    margin-top: 42px
+  }
+  .whyBl .in .list .item {
+    padding-left: 0;
+    padding-top: 87px
+  }
+  .whyBl .in .list .item+.item {
+    margin-top: 45px
+  }
+  .whyBl .in .list .item .iconBl {
+    left: 52px;
+    top: -30px
+  }
+  .whyBl .in .list .item .pic {
+    left: -7px;
+    top: -19px
+  }
+  .pl {
+    margin-top: 23px
+  }
+  .pl .list {
+    flex-wrap: wrap;
+    justify-content: space-between
+  }
+  .pl .list .item {
+    width: calc(100% / 3);
+    margin-bottom: 10px;
+    background-size: 80%
+  }
+  .lastOper {
+    margin-top: 26px
+  }
+  .companyNews::before {
+    margin-right: -150px;
+    bottom: -109px
+  }
+  .whyBl+.paymentBl {
+    padding: 50px 0 0
+  }
+  footer {
+    padding: 75px 0 20px
+  }
+  footer .left .logo {
+    margin: 0
+  }
+  footer .left .copyTxt {
+    text-align: left;
+    padding: 0;
+    font-size: 14px
+  }
+  footer .left .copyTxt p {
+    text-align: left
+  }
+  footer .right .listFot .col:nth-child(4) {
+    bottom: 26px;
+    right: 5px
+  }
+  footer .right .listFot .col .soc li+li {
+    margin-left: 8px
+  }
+  footer::before {
+    background-image: url(../img/bgfooter320.png);
+    width: 694px;
+    height: 258px;
+    margin-left: -212px
+  }
+  .grettings {
+    margin-top: 109px
+  }
+  .lineContactLink .tit {
+    font-size: 30px
+  }
+  .faqBl {
+    padding: 85px 0 0
+  }
+  .aboutUsBl {
+    padding: 163px 0 0
+  }
+  .aboutUsBl .bitPicture {
+    top: -40px;
+    right: 5px;
+    width: 189px;
+    height: 250px
+  }
+  .aboutUsBl .bitPicture::before {
+    top: 78px;
+    width: 140px;
+    height: 140px;
+    left: -15px;
+  }
+  .aboutUsBl .bitPicture.big {
+    display: none
+  }
+  .bannersBl .circleBlue {
+    display: none
+  }
+  .bannersBl .tabs .listTabs li {
+    width: calc((100% / 2) - 5px)
+  }
+  .lkPage .bannersBl .tabs .listTabs li {
+    width: calc((100% / 2) - 5px);
+    margin-bottom: 12px!important
+  }
+  .lkPage .bannersBl .tabs .listTabs li a {
+    font-size: 13px
+  }
+  .pictureBanners {
+    /* height: 150px!important */
+  }
+  .copyLinkBl .btn {
+    width: 100%;
+    max-width: 320px
+  }
+  .contactsBl .social {
+    display: none
+  }
+  .formaMessage .lineInputs {
+    width: 100%!important
+  }
+  .formaMessage .lineInputs+.lineInputs {
+    margin-top: 16px
+  }
+  .formaMessage .btn {
+    margin-top: 15px;
+    width: 100%;
+    max-width: 320px
+  }
+  .formaMessage .imageCodeBl {
+    flex-wrap: wrap
+  }
+  .formaMessage .imageCodeBl label {
+    width: 100%
+  }
+  .formaMessage .imageCodeBl .imageCode {
+    width: 100%
+  }
+  .formaMessage .imageCodeBl input {
+    width: 100%;
+    margin-top: 15px
+  }
+  .textInvestDesr .textBlock p+p {
+    margin-top: 20px
+  }
+  .textInvestDesr .textBlock p:nth-child(1) {
+    margin-bottom: 0
+  }
+  .textInvestDesr .textBlock p:nth-child(2) {
+    width: 100%
+  }
+  .textInvestDesr .textBlock p:nth-child(3) {
+    width: 100%
+  }
+  .rateBl .item {
+    width: 100%
+  }
+  .rulesBl {
+    padding: 113px 0 50px
+  }
+  .listRules .line {
+    width: 100%;
+    padding-left: 0;
+    padding-top: 120px
+  }
+  .loginBl {
+    margin-bottom: 50px
+  }
+  .loginBl .formaMessage {
+    padding: 25px
+  }
+  .loginBl .formaMessage .lineInputs .link {
+    margin: 16px auto 0;
+    float: none;
+    text-align: center;
+    display: table
+  }
+  .loginBl .formaMessage .btn {
+    width: 100%;
+    max-width: 320px
+  }
+  .loginBl .formaMessage .imageCodeBl .imageCode {
+    width: 100%
+  }
+  .loginBl .formaMessage .imageCodeBl input {
+    width: 100%;
+    margin-top: 20px
+  }
+  .loginBl .formaMessage .lineInputs {
+    width: 100%!important
+  }
+  .lkLineTop .logo {
+    width: auto
+  }
+  .lkLineTop .lineInfoTop .timeBl {
+    width: 100%
+  }
+  .lkLineTop .lineInfoTop .socialBl {
+    width: 100%;
+    margin-top: 11px
+  }
+  .lkInfoUser {
+    margin-top: 11px
+  }
+  .lkInfoUser ul li {
+    width: 100%;
+    margin-bottom: 0
+  }
+  .lkInfoUser ul li+li {
+    margin-top: 10px
+  }
+  .lkLineDep .list {
+    padding: 10px 5px
+  }
+  .lkLineDep .item {
+    width: 100%;
+    margin-bottom: 0;
+    padding-left: 52px
+  }
+  .lkLineDep .item+.item {
+    margin-top: -2px
+  }
+  .lkContent {
+    padding: 29px 0 0
+  }
+  .lkRightContent .capTitle {
+    left: -3px
+  }
+  .accountBl .linksBl .item {
+    padding: 6px 25px 6px 128px
+  }
+  .accountBl .linksBl .item+.item {
+    padding: 28px 10px 30px 128px
+  }
+  .accountBl .linksBl .item .pic {
+    width: 110px;
+    height: 110px;
+    left: 8px
+  }
+  .accountBl .linksBl .item .tit {
+    font-size: 25px
+  }
+  .accountBl .linksBl .item .tit .name {
+    font-size: 20px
+  }
+  .accountBl .linksBl .item .link {
+    margin-top: 3px;
+    font-size: 15px;
+    line-height: 23px;
+    word-break: break-all
+  }
+  .adretingBl .refLink .copyLinkBl .btn {
+    width: 100%;
+    max-width: 320px
+  }
+  .filterBl .dateTimeBl {
+    flex-wrap: wrap
+  }
+  .filterBl .dateTimeBl .col {
+    width: 100%
+  }
+  .filterBl .dateTimeBl .col+.col {
+    margin-left: 0;
+    margin-top: 15px
+  }
+  .filterBl .transactionBl {
+    width: 100%;
+    margin-top: 15px
+  }
+  .filterBl .payBl {
+    width: 100%
+  }
+  .filterBl .btn {
+    width: 100%;
+    max-width: 300px;
+    margin-top: 15px
+  }
+  .tableHistory .tbody .line .col {
+    width: 100%!important;
+    margin-bottom: 10px
+  }
+  .settingsBl .tabs .listTabs li {
+    width: 100%
+  }
+  .settingsBl .titListChek {
+    min-height: inherit
+  }
+  .settingsBl .titListChek+* {
+    margin-top: 15px
+  }
+  .settingsBl .chekitList .left, .settingsBl .chekitList .right {
+    width: 100%
+  }
+  .settingsBl .chekitList .right {
+    margin-top: 30px
+  }
+  .totalBl .col .tit {
+    font-size: 16px
+  }
+  .totalBl .col .val {
+    font-size: 16px
+  }
+  .listPayment {
+    display: table;
+    width: auto;
+    margin: 35px auto 0
+  }
+  .makeBl.with .amount {
+    padding: 36px 15px
+  }
+  .makeBl.with .amount .title {
+    margin-left: 85px
+  }
+  .makeBl.with .amount .inputLine {
+    margin-top: 20px
+  }
+  .referalsBl .accountBl .item+.item {
+    padding: 15px
+  }
+  .accountBl .filterBl {
+    padding: 20px
+  }
+  .genetalStat .left .line {
+    padding: 16px 21px 16px 69px
+  }
+  .genetalStat .left .line .tit {
+    font-size: 12px
+  }
+  .genetalStat .left .line .val {
+    font-size: 16px
+  }
+  .genetalStat .right .line {
+    padding: 10px 5px
+  }
+  .tableInfoRef .line .col {
+    text-align: center
+  }
+  .tableInfoRef .line .val {
+    display: block
+  }
+  .tableReferals .desrLine {
+    padding: 15px
+  }
+  .Android .loginLinks ul li a {
+    padding: 10px 18px 8px
+  }
+  .Android .questLine .quest {
+    padding: 17px 58px 14px
+  }
+  .Android .questLine .quest::before {
+    margin-top: -17px
+  }
+  .Android .listRules .line .num>span {
+    line-height: 100px
+  }
+  .Android footer .right .listFot .col .soc li a {
+    line-height: 39px
+  }
+}
